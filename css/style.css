@@ -1,0 +1,115 @@
+/*Tag Selectors*/
+a {
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+}
+
+body {
+  background-color: #f6eedf;
+  margin: 0;
+  text-align: center;
+  color: #40514E;
+  font-family: 'Varela Round', sans-serif;
+  font-size: 1.25rem;
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 100px auto 0 auto;
+  font-family: 'Inria Sans', sans-serif;
+}
+
+h2 {
+  color: #d63447;
+}
+
+h3 {
+  color: #d63447;
+}
+
+hr {
+  margin: 50px auto 50px auto;
+  border-style: dotted none none none;
+  border-width: 8px;
+  width: 10%;
+  border-color: #d1cebd;
+}
+
+p {
+  line-height: 2;
+}
+
+/*Class Selectors*/
+.bottom-container {
+  background-color: #f57b51;
+  margin-top: 30px;
+  padding: 20px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 400px;
+}
+
+.chillies {
+  height: 30px;
+}
+
+.copyright {
+  font-size: 0.75rem;
+  padding-top: 10px;
+}
+
+.footer-link {
+  margin: 20px 40px 40px 20px;
+}
+
+.intro {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  padding-top: 100px;
+}
+
+.profile-pic {
+  height: 100px;
+  border-radius: 100%;
+}
+
+.teach-pic {
+  width: 10%;
+  float: left;
+  margin-right: 30px;
+}
+
+.guitar-pic {
+  width: 10%;
+  float: right;
+  margin-left: 30px;
+}
+
+.skills {
+  margin-top: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 50px auto 50px auto;
+  text-align: left;
+}
+
+.top-container {
+  background-color: #d63447;
+  color: #d1cebd;
+}
+
+.top-cloud {
+  position: relative;
+  left: 400px;
+  padding-top: 50px;
+}
